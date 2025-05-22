@@ -27,12 +27,8 @@ AWS cloud services and practical blockchain deployments.
 Data protection strategies, smart automation, or building tech from concept to working prototype.
 
 ⚡ Fun Fact:
-I presented a research paper on swarm robotics at an international conference—my first global stage experience in tech!
+I presented a research paper on the topic AI for Proactive Cyber security Threat detection Data security Threat detction
+Data privacy and protection aspects, and one more on swarm robotics at an international conference.
 
 
-💻 Tech Stack:
-HTML5 • CSS3 • JavaScript • Python • React
-OpenCV • MongoDB • MySQL
-Power BI • Canva • Pandas • NumPy • Plotly
-GitHub Actions
 
