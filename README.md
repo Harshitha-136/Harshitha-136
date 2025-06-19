@@ -1,11 +1,39 @@
 # Harshitha-A
-# 👩‍💻 Hi, I'm Harshitha A!
+🎓 I'm a final-year B.Tech student at Garden City University, specializing in Cybersecurity and Data Analytics. I'm passionate about leveraging technology to create secure, data-driven solutions that make a real-world impact.
 
-🎓 I'm a B.Tech student at **Garden City University**, with a deep passion for **Cybersecurity**, **Data Analytics**, and **emerging technologies** like AI & Blockchain.
+🚀 I enjoy exploring cutting-edge technologies and turning academic research into practical innovations—be it secure blockchain infrastructures or AI tools for sustainability. Solving complex problems with real-world applicability is where I thrive.
 
-🔍 I enjoy crafting secure systems, analyzing data for insights, and building scalable solutions that solve real-world problems.
+💻 With hands-on experience in Python, SQL, MongoDB, and tools like Power BI, I specialize in bridging the gap between unstructured data and actionable insights.
 
-💡 My goal is to turn **innovation into impact**—from AI-powered bots to socially meaningful platforms.
+🤝 I'm always enthusiastic to learn, collaborate, and bring bold, tech-powered ideas to life. I believe innovation flourishes when shared.
+
+🔧 Projects I'm Working On
+🤖 IoT Network Security Bot
+A smart bot system designed for real-time network scanning, intrusion detection via Telegram alerts, and live web dashboards—built to enhance local network security through real-time threat visibility.
+
+🛒 Social Grocery Sharing Platform
+A community-first web application that connects donors, farmers, and families to share surplus groceries—designed to minimize food waste and improve access to affordable nutrition.
+
+💬 Let’s Connect Over...
+🤝 Collaboration interests:
+Cybersecurity tools, Python-based automation, and innovative student-led tech projects.
+
+🙋‍♀️ I’m seeking help with:
+Building impactful dashboards in Power BI and optimizing MongoDB queries.
+
+🌱 Currently exploring:
+AWS cloud services and blockchain implementation for real-world deployment.
+
+💡 Ask me about:
+Data privacy, intelligent security systems, or turning your raw tech ideas into functioning prototypes.
+
+🔬 Research Spotlight: 
+I presented a research paper on swarm robotics at an international conference—an exciting step in my journey toward AI-driven innovation.
+
+✨ Highlight:
+I presented a research paper on Swarm Robotics at an international conference—an experience that deepened my interest in AI-driven automation.
+
+
 
 
 
