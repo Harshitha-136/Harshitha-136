@@ -75,8 +75,6 @@ A web app connecting donors, farmers, and families to share surplus groceries—
 
 ## 📊 GitHub Stats:
 
-## 📊 GitHub Stats:
-
 ![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshithaA&show_icons=true&theme=radical&custom_title=Harshitha's%20GitHub%20Stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithaA&layout=compact&theme=radical)
