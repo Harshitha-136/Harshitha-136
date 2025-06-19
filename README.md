@@ -5,13 +5,13 @@
 
 🔍 I enjoy crafting secure systems, analyzing data for insights, and building scalable solutions that solve real-world problems.
 
-💡 My goal? To turn **innovation into impact**—from AI-powered bots to socially meaningful platforms.
+💡 My goal is to turn **innovation into impact**—from AI-powered bots to socially meaningful platforms.
 
 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://www.linkedin.com/in/harshitha-a-354a7325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)/)
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:aharshitha89@gmail.com)
 
 ---
