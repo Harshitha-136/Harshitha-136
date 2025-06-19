@@ -1,4 +1,4 @@
-# Harshitha-A
+# Harshitha A
 🎓 I'm a final-year B.Tech student at Garden City University, specializing in Cybersecurity and Data Analytics. I'm passionate about leveraging technology to create secure, data-driven solutions that make a real-world impact.
 
 🚀 I enjoy exploring cutting-edge technologies and turning academic research into practical innovations—be it secure blockchain infrastructures or AI tools for sustainability. Solving complex problems with real-world applicability is where I thrive.
