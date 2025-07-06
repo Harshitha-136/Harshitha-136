@@ -33,8 +33,16 @@ I presented a research paper on swarm robotics at an international conference—
 ✨ Highlight:
 I presented a research paper on Swarm Robotics at an international conference—an experience that deepened my interest in AI-driven automation.
 
+## 📌 Projects
 
+- 🤖 **IoT Network Security Bot**  
+A proactive bot system equipped with live scanning, Telegram alerts, and a dashboard—built for local network security using real-time threat detection.
 
+🤖 IoT Network Scanner Bot
+A Telegram-based bot that scans local IoT networks, identifies connected devices, and reports potential security risks in real time via chat alerts.
+
+🛡️ PhishVision – AI-Powered Phishing Detector
+A real-time Chrome extension with a Flask backend that uses AI to detect phishing websites locally, ensuring fast, private, and reliable protection.
 
 
 ## 🌐 Socials:
@@ -60,17 +68,6 @@ I presented a research paper on Swarm Robotics at an international conference—
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-
-
-
-## 📌 Projects
-
-- 🤖 **IoT Network Security Bot**  
-A proactive bot system equipped with live scanning, Telegram alerts, and a dashboard—built for local network security using real-time threat detection.
-
-- 🛒 **Social Grocery Sharing Platform**  
-A web app connecting donors, farmers, and families to share surplus groceries—helping reduce food waste and enhance affordable nutrition access.
-
 
 
 ## 📊 GitHub Stats:
